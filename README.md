@@ -1,2 +1,1 @@
-# Git_test
-git测试
+#该仓库为git连接测试
